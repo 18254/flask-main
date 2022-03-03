@@ -38,3 +38,5 @@ def logout():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+#test that it uploads to github 
